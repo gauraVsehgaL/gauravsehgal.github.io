@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to 404!"
-date:   2020-01-02 20:08:29
+date:   2020-01-01 20:08:29
 categories: 404
 ---
 
