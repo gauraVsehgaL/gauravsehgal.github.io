@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+title: Gaurav Sehgal
+email: gauravsehgal93@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Writing my thoughts one blog at a time.
+url: "http://gauravsehgal.github.io" # the base hostname & protocol for your site
+twitter_username: gaurav__sehgal
+github_username:  gauravsehgal
