@@ -6,6 +6,5 @@ base_url: "/"
 url: "http://gauravsehgal.github.io"
 twitter_username: gaurav__sehgal
 github_username:  gauravsehgal
-theme: jekyll-theme-minimal
 
 markdown: kramdown
