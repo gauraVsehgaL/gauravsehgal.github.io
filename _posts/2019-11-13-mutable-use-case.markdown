@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "mutable use case!"
+date:   2019-11-13 12:58:29
+categories: C++
+---
+
 ## Real world use case of mutable keyword in C++.
 
 For introduction, you can use `mutable` keyword to mark member variables which can then be modified from `const` member methods as well.
