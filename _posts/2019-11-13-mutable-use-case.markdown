@@ -12,7 +12,7 @@ For introduction, you can use `mutable` keyword to mark member variables which c
 I never actually used this until I came across the below use case.
 
 **Consider there is a Lock class which exposes interfaces to lock the underlynig resource with exclusive access for writes or with shared access for read access.**
-```
+```C++
 Class Lock
 {
   ...
@@ -23,7 +23,7 @@ Class Lock
 };
 ```
 **And you have an encapsulator for a very important resource.**
-```
+```C++
 class ProtectMyResource
 {
   private:
@@ -55,6 +55,6 @@ Now you could either not mark `GetResourceValue()` as `const`, but then the inte
 
 Or you could mark `AbstractedLock` as `mutable`.
 
-```
+```C++
 mutable Lock AbstractedLock;
 ```
