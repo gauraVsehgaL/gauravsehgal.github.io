@@ -5,7 +5,7 @@ date:   2019-11-13 12:58:29
 categories: C++
 ---
 
-```
+```C++
 #include <iostream>
 #include <string>
 
